@@ -1,4 +1,4 @@
 #!/bin/bash
 
-docker build -t="krajcovic/centos:latest" .
+docker build -t="krajcovic/centos-base:latest" .
 
