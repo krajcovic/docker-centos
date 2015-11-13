@@ -1,0 +1,7 @@
+[smartshop]
+name=Smartshop
+gpgcheck=0
+protect=0
+metadata_expire=1m
+enabled=1
+baseurl=http://gerald.monetplus.cz/smartshop

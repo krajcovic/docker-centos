@@ -1,0 +1,6 @@
+[mysql-56-community]
+name=MySQL 56 Community
+gpgcheck=0
+protect=0
+enabled=1
+baseurl=http://repo.mysql.com/yum/mysql-5.6-community/el/6/x86_64/
