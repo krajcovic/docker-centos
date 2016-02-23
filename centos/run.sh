@@ -5,7 +5,7 @@ container_name=monet-base
 
 # Check container exist.
 container_id=$(docker ps -a -q -f name=${container_name})
-# echo $container_id
+echo "Container ID: " $container_id
 
 if [ $container_name ]; then
 	echo 'Stopping container'

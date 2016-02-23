@@ -1,0 +1,6 @@
+[mysql-tools-community]
+name=MySQL Tools Community
+gpgcheck=0
+protect=0
+enabled=1
+baseurl=http://repo.mysql.com/yum/mysql-tools-community/el/6/x86_64/

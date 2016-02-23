@@ -1,0 +1,6 @@
+[rhel6updateLB]
+name=RedHat update LB
+gpgcheck=0
+protect=0
+enabled=1
+baseurl=https://w3test.monetplus.cz/~urepo/rhel6_64/rhel-lb-for-rhel-6-server-rpms

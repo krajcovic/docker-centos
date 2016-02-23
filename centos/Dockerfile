@@ -52,7 +52,7 @@ COPY yum.repos.d/* /etc/yum.repos.d/
 # echo 'nameserver 193.33.23.33' >> /etc/resolv.conf;\
 # echo 'search monetplus.cz' >> /etc/resolv.conf; yum -y update --skip-broken;yum install -y vim, mc
 
-RUN yum -y update --skip-broken;yum install -y vim, mc;
+# RUN yum -y update --skip-broken;yum install -y jdk-env;
 
 # RUN yum -y jdk-env
 

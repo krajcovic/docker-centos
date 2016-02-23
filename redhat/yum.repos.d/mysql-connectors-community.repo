@@ -1,0 +1,6 @@
+[mysql-connectors-community]
+name=MySQL Connectors Community
+gpgcheck=0
+protect=0
+enabled=1
+baseurl=http://repo.mysql.com/yum/mysql-connectors-community/el/6/x86_64/

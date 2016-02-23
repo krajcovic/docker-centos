@@ -1,0 +1,7 @@
+[monet-releases]
+name=Monet Maven Release Repository
+gpgcheck=0
+protect=0
+metadata_expire=1m
+enabled=1
+baseurl=http://maven.monetplus.cz/content/groups/public
